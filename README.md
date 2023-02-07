@@ -1,21 +1,28 @@
+# GIST
+
+Tumors pre and post imatinib treatement
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi
+
 # Melanoma
 
-Melanoma tumors pre and on Anti-PD1 Blockade<br>
+## Tumors
+
+Pre and on Anti-PD1 Blockade<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168204
 
-Melanoma pre and post BRAFi treatment<br>
+Pre and post BRAFi treatment<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141484
 
-Melanoma biopsy before and after MAPKi/PD-1 blockade treatment<br>
+Before and after MAPKi/PD-1 blockade treatment<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158403
 
-Melanomas before and after treatment with vaccine therapy<br>
+Before and after treatment with vaccine therapy<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE106128
 
-Melanomas before and after treatment with RAF or RAF+MEK inhibitors<br>
+Before and after treatment with RAF or RAF+MEK inhibitors<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE77940
 
-Melanomas before and after treatment debrafenib and trametinib<br>
+Before and after treatment debrafenib and trametinib<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61992
 
 Uveal melanomas before and during treatment<br>
@@ -24,28 +31,28 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39717
 Refactory Melanoma and NSCLC treated tumor biopsies (messy data)<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE208858
 
-Melanoma patient pre and post treatment<br>
+Patient pre and post treatment<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE171484
 
 Metastatic melanomas treated<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE193157
 
-Melanoma treated tumors<br>
+Treated tumors<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122220
 
-Melanoma pre and post treatment with BRAF or BRAF and MEK inhibitors<br>
+Pre and post treatment with BRAF or BRAF and MEK inhibitors<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196434
 
 Uveal melanoma treated<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202687
 
-Melanomas before treatment<br>
+Before treatment<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145996
 
-Melanomas untreated<br>
+Untreated<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169203
 
-Melanomas before treatment<br>
+Before treatment<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE215868
 
 Acral melanoma patients<br>
@@ -57,53 +64,55 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155389
 Melanoma and other cancers pre and post treatments<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE159237
 
-Melanoma patients treated with BRAF and or MEK inhibitors<br>
+Patients treated with BRAF and or MEK inhibitors<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6607055
 
 Multi-type melanomas untreated<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE174395
 
-Untreated melanoma patients<br>
+Patients untreated<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160902
 
-Melanoma patients untreated<br>
+Patients untreated<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE221390
 
 ## Cell Lines
 
-Melanoma cell lines treated and untreated with mitotane<br>
+Treated and untreated with mitotane<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE186870
 
-Melanoma cell lines treated and not treated with GSK3a/b inhibitor<br>
+Treated and not treated with GSK3a/b inhibitor<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE146415
 
-Melanoma cell lines before and after treatments<br>
+Before and after treatments<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167241
 
-Melanoma cells lines treated<br>
+Treated<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166617
 
-Melanoma patient -derived cell lines untreated<br>
+Patient -derived cell lines untreated<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE208004
 
 Uveal cell lines and primary tumors treated<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212219
 
-Melanoma cell lines before and after IFNg exposure<br>
+Before and after IFNg exposure<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152755
 
 ## Single Cell Sequencing
 
-Melanoma brain metastases pre and post treatment single cell sequencing<br>
+Brain metastases pre and post treatment<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200218
 
-Single cell HNSCC tumor tissues and blood of untreated patients with head and neck cancers<br>
+HNSCC tumor tissues and blood of untreated patients with head and neck cancers<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169381
 
 Patient-derived melanoma cell lines treated with vemurafenib<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188469
 
 # Breast Cancer
+
+## Tumor
 
 Pre and post treatment with mifepristone - 16 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212690
@@ -120,13 +129,13 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65505
 Pre and during treatment with fulvestrant or anastrozole - 76 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE71791
 
-Tumors untreated and treated with trastuzumab - 335 samples<br>
+Untreated and treated with trastuzumab - 335 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE47994
 
-Tumors with various treatments in clinical trial - 455 samples<br>
+Various treatments in clinical trial - 455 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE223700
 
-Chemotherapy treated tumors - 119 samples<br>
+Chemotherapy treated - 119 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE106977
 
 Tumors and matched metastatic tumors - 129 samples<br>
