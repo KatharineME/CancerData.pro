@@ -24,10 +24,13 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE8167
 
 ## Single Cell
 
-Sequening of intra and peri tumor GIST cancers - 4 samples
+Sequening of intra and peri tumor GIST cancers - 4 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162115
 
 ## Cell Line
+
+Untreated and treated with BET Bromodomain Inhibition -18 samples<br>
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE113215
 
 Concurrent inhibition of CDK2 in GIST cell lines<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206257
