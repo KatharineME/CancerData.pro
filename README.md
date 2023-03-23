@@ -19,6 +19,8 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31802
 Primary and metastatic liver GISTs - 8 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE21315
 
+Gastric and small instestine GIST tumors - 32 samples<br>
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE8167
 
 ## Single Cell
 
