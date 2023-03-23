@@ -13,6 +13,9 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112
 Imatinib resistant versus imatinib sensitive GIST patients<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155800
 
+GIST tumors of various grades<br>
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31802
+
 ## Single Cell
 
 Sequening of intra and peri tumor GIST cancers - 4 samples
