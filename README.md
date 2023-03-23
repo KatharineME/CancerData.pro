@@ -15,6 +15,12 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112
 Sequening of intra and peri tumor GIST cancers - 4 samples
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162115
 
+## Cell Line
+
+Concurrent inhibition of CDK2 in GIST cell lines<br>
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206257
+
+
 # Melanoma
 
 ## Tumors
