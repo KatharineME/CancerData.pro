@@ -3,6 +3,9 @@
 Tumors pre and post imatinib treatement
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi
 
+Mixed cancer types (including GIST) patients in vivo and later in pdx form, pre-treatment and post treatment
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212854
+
 ## Single Cell
 
 Sequening of intra and peri tumor GIST cancers - 4 samples
