@@ -16,6 +16,10 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155800
 GIST tumors of various grades<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31802
 
+Primary and metastatic liver GISTs - 8 samples<br>
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE21315
+
+
 ## Single Cell
 
 Sequening of intra and peri tumor GIST cancers - 4 samples
