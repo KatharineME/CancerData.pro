@@ -32,6 +32,9 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162115
 Untreated and treated with BET Bromodomain Inhibition -18 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE113215
 
+Time series GIST imatinib responsive cell line treated with imatinib mesylate - 54 samples<br>
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17018
+
 Concurrent inhibition of CDK2 in GIST cell lines<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206257
 
