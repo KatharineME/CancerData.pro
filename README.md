@@ -55,6 +55,9 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188637
 Pretreatment NSCLC biopsies and performance scores in response to PD-1/PD-L1 immunotherapy - 82 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161537
 
+Autopsy samples from treatment resistant lung cancers - 12 samples<br>
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162102
+
 # Melanoma
 
 ## Tumors
