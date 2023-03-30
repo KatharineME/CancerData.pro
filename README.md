@@ -19,6 +19,9 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31802
 Primary and metastatic liver GISTs - 8 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE21315
 
+Pre-treatment NSCLC patient tumors with responder status to anti-PD-1 therapy - 16 samples<br>
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126044
+
 Gastric and small instestine GIST tumors - 32 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE8167
 
