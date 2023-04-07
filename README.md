@@ -61,6 +61,9 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162102
 Pre-treatment NSCLC patient tumors with responder status to anti-PD-1 therapy - 16 samples<br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126044
 
+Early stage NSCLC tumors (some treated with adjuvant cisplatin/vinorelbine and others not) with overall survival (OS) and disease specific survival (DSS) times - 133 samples<br>
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM370914
+
 # Melanoma
 
 ## Tumors
